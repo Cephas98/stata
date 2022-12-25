@@ -1,0 +1,26 @@
+	(1)	(2)
+VARIABLES	SSCORE	SSCORE
+		
+OPERATING_INCOME	-0.000	-0.000
+	(0.000)	(0.000)
+LEVERAGE	0.000	0.000
+	(0.000)	(0.000)
+GSCORE	0.271***	0.271***
+	(0.063)	(0.060)
+EMPLOYEE_ACCIDENT	0.002	0.002
+	(0.003)	(0.002)
+ROAD_RAIL	-5.738	-5.738
+	(4.798)	(4.481)
+MARINE	5.730	5.730
+	(6.309)	(5.398)
+YEAR19_20	4.084***	4.084***
+	(1.522)	(1.370)
+YEAR21	9.169***	9.169***
+	(2.364)	(1.854)
+Constant	37.707***	37.707***
+	(5.095)	(4.197)
+		
+Observations	223	223
+Number of ID	70	70
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
